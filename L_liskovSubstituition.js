@@ -43,5 +43,11 @@ function makeSwimmingBirdSwim(bird) {
 const duck = new Duck();
 const penguin1 = new penguin();
 
-makeFlyingBirdFly(duck);
-makeSwimmingBirdSwim(penguin1)
+// makeFlyingBirdFly(duck);
+// makeSwimmingBirdSwim(penguin1)
+
+let names = ['Sahith' , 'pavan' ,'shiva'];
+
+names.map((name)=> 
+console.log(name)
+)
